@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/zbank/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_id.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_matching.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_name_usages.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_publications.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zb_stats.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/zbank/reference/zbank-package.html</loc>
+  </url>
+</urlset>

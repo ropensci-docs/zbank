@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "953e12c0df1bdfad3653865462c1c8c202372da4",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-15 16:03:16",
+    "files": 2,
+    "merge": false,
+    "message": "remove typo\n"
+  },
+  "remote": "https://github.com/ropensci/zbank",
+  "pkg": "zbank"
+}
